@@ -12,7 +12,7 @@ or click [here](https://www.youtube.com/watch?v=IomnGpExPE4).
 
 
 ## Members
-- Eber Christer [@eberchrister](https://github.com/eberchrister)
+- Eber Christer [@eberfrogster](https://github.com/eberfrogster)
 - Jessica Sumargo [@jessicasmrg](https://github.com/jessicasmrg)
 - Piotr Nobis [@piotrnobis](https://github.com/piotrnobis)
 
